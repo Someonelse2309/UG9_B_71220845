@@ -1,0 +1,5 @@
+print ("========== INI PROGRAM SEDERHANA ==========")
+print ("Masukan Angka yang ingin di pangkatkan:")
+a = int(input(">> "))
+print ("")
+print ("Angka anda telah di pangkat kan",a,"! anda mendapat angka : ",a*a*a*a*a*a*a)
